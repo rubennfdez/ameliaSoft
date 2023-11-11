@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ameliasoft"},{"l":"com.mysql.jdbc"},{"l":"config"}];updateSearchResults();
